@@ -1,9 +1,9 @@
 # Data Structure & Algorithms in Java
 
-## 📌 Project Overview
+## Project Overview
 This project is dedicated to relearning Java data structures and algorithms. The focus is on implementing fundamental data structures and algorithmic concepts in Java to reinforce understanding and improve problem-solving skills.
 
-## 🚀 Features
+## Features
 - Implementation of various **data structures** such as:
   - Arrays
   - Linked Lists (Singly, Doubly, Circular)
